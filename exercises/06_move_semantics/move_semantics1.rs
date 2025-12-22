@@ -6,7 +6,6 @@ fn fill_vec(mut vec: Vec<i32>) -> Vec<i32> {
 
 fn main() {
     // You can optionally experiment here.
-    println!("boop");
 }
 
 #[cfg(test)]
